@@ -1,6 +1,6 @@
 # 🌊 1D Shallow Water Equations
 Welcome! This project is designed to create a configurable python class which can plug-and-play different numerical schemes under different bc's for the 1D shallow water equations.
-![Sample Image](height_3d.ong)
+![Sample Image](height_3d.png)
 ---
 
 ## 1️⃣ Quick Start: Reproducing Results
