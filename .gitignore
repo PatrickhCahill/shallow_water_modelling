@@ -1,0 +1,50 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+
+# Packaging / build
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Testing / type-checking
+.pytest_cache/
+.mypy_cache/
+.coverage
+.coverage.*
+nosetests.xml
+coverage.xml
+
+# Jupyter
+.ipynb_checkpoints
+
+# Editor / OS files
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# CSV data
+*.csv
+data/*.csv
+data/**
+depr_data/
+
+# Images folder (ignore all images)
+images/
+images/**
+
+# Binary / compiled files
+*.so
+*.dll
+*.exe
+*.o
+venv/
