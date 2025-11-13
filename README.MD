@@ -58,6 +58,12 @@ If `HIGH_RES_FIGURE_MUSCL_HYDROSTATIC=True`
 - data/kurgonov_petrova/height_heatmap.png
 - data/kurgonov_petrova/initial_conditions.png
 
+**If running without the `HIGH_RES_FIGURE_MUSCL_HYDROSTATIC=False` a similar solution can be viewed in `data/conv_test_muscl_hydrostatic_T3/Nx101_Nt12001/`.**
+
+*Note:* On a macbook pro this code takes approximately 3 minutes to execute. Include the high resolution figure will roughly double this time.
+
+
+
 ## 2️⃣ Code Base Overview
 
 ```
